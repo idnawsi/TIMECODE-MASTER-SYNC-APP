@@ -6,7 +6,6 @@ A desktop application for syncing video and audio files using LTC (Linear Timeco
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Features
 
@@ -113,7 +112,7 @@ See [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md) for detailed build instructio
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details.
+No License
 
 ## Support
 
