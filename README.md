@@ -108,12 +108,9 @@ python build.py
 # Output: dist/LTC Sync/
 ```
 
-See [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md) for detailed build instructions.
 
 ## License
 
 No License
 
-## Support
 
-- [Report Issues](https://github.com/yourusername/ltc-sync-app/issues)
