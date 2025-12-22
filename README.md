@@ -62,7 +62,7 @@ python ltc_sync_app.py
 ```
 
 ### Option 2: Download Release
-Download the pre-built executable from [Releases](https://github.com/yourusername/ltc-sync-app/releases).
+Download the pre-built executable from [Releases](https://github.com/idnawsi/TIMECODE-MASTER-SYNC-APP/releases).
 
 ## Quick Start
 
