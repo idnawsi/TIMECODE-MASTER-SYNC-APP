@@ -1,0 +1,21 @@
+# LTC Sync App - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+numpy>=1.20.0
+Pillow>=9.0.0
+tkinterdnd2>=0.3.0
+
+# Audio processing
+scipy>=1.7.0
+sounddevice>=0.4.0
+soundfile>=0.10.0
+
+# Video processing (OpenCV)
+opencv-python>=4.5.0
+
+# VLC Python bindings (requires VLC to be installed separately)
+python-vlc>=3.0.0
+
+# Build tools (for creating executables)
+pyinstaller>=5.0.0

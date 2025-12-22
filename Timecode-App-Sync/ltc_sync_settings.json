@@ -1,0 +1,20 @@
+{
+  "geometry": "2560x1369+260+260",
+  "sync_logic": "TC Only",
+  "export_format": "Premiere Pro",
+  "expected_fps": "Auto",
+  "mute_ltc": true,
+  "include_camera_audio": false,
+  "split_stereo": false,
+  "use_linked": true,
+  "multicam_export": false,
+  "last_directory": "C:/Users/iswandi/Desktop",
+  "timeline_zoom": 0.01,
+  "show_tc_overlay": true,
+  "sort_option": "Name",
+  "recent_files": [],
+  "waveform_cache_max_size_gb": 7,
+  "waveform_cache_custom_dir": null,
+  "zoom_focus_mode": "Cursor",
+  "version": "1.0"
+}
