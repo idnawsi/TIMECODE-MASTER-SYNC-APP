@@ -51,7 +51,7 @@ A desktop application for syncing video and audio files using LTC (Linear Timeco
 ### Option 1: Run from Source
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ltc-sync-app.git
+git clone https://github.com/idnawsi/ltc-sync-app.git
 cd ltc-sync-app
 
 # Install dependencies
