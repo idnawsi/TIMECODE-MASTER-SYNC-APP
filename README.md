@@ -1,6 +1,6 @@
 # TIMECODE-MASTER-SYNC-APP
 a time code sync app to make your workflow much faster
-# LTC Sync App
+# LTC Sync App Video
 
 A desktop application for syncing video and audio files using LTC (Linear Timecode). Automatically aligns multi-camera footage and audio recordings based on embedded timecode.
 
